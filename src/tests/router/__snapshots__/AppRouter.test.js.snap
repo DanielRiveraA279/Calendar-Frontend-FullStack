@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <AppRouter /> debe de mostrar el espere...  1`] = `ReactWrapper {}`;
+
+exports[`Pruebas en <AppRouter /> debe de mostrar la ruta privada 1`] = `ReactWrapper {}`;
+
+exports[`Pruebas en <AppRouter /> debe de mostrar la ruta publica 1`] = `ReactWrapper {}`;
